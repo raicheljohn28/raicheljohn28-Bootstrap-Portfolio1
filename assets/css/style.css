@@ -1,5 +1,4 @@
 
-
 html,
 body {
     height: 100%;
@@ -96,12 +95,18 @@ h2 {
         width: 50%;
         float: left;
         padding: 6px;
-        margin: 20px;
+        margin-left: 10%;
+        height: 76%;
     }
 
     .row {
         margin-left: 15px;
         margin-right: 15px;
+    }
+
+    .temp {
+        margin-left: 40px;
+        width: 25%;
     }
 
    
