@@ -3,7 +3,7 @@
 html,
 body {
     height: 100%;
-    background-image: url(assets/images/sakura.png)
+    background-image: url(../images/sakura.png)
 }
 
 h1 {
